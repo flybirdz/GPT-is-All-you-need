@@ -36,3 +36,27 @@ paper(有两篇供参考)(There are two ones to be referred):
 
 code:未开源(Not open source)
 
+#### 1.4 GPT4
+
+paper:[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+
+code:未开源(Not open source)
+
+### 2.Embeedings
+
+#### 2.1 Word2Vec
+
+paper:[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+
+code:[Tensorflow Core/Word2Vec](https://www.tensorflow.org/tutorials/text/word2vec)
+
+#### 2.2 Doc2Vec
+
+paper:[Distributed Representations of Sentences and Documents](https://arxiv.org/abs/1405.4053)
+
+code:[Gensim/Doc2Vec Model](https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html)
+
+
+
+(Gensim is a popular python nlp processing library)
+
