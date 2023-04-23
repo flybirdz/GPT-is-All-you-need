@@ -10,5 +10,5 @@ Here is everything about GPT  what you should know so far, including papers, ope
 
 #### 1.1 GPT1
 
-paper:[Improving Language Understanding by Generative Pretraining] (https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+paper:[Improving Language Understanding by Generative Pretraining](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
