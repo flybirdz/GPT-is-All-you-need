@@ -28,9 +28,10 @@ code:未开源(Not open source)
 
 #### 1.4 GPT3.5(InstructionGPT)
 
-paper(有两篇供参考)(There are two ones to be referred):[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+paper(有两篇供参考)(There are two ones to be referred):
+[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 
-​																						          [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 
 code:未开源(Not open source)
 
