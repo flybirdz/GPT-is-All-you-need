@@ -4,11 +4,33 @@
 
 Here is everything about GPT  what you should know so far, including papers, open source models, websites, blogs... I organize them together so that everyone can understand and use GPT more easily. The project is updated from time to time, and the content may be incomplete. Please add it!
 
-## 二、ChatGPT的基础模型（Foundation Model of ChatGPT）
+## 二、ChatGPT(GPT4)的前世今生（The past and present of ChatGPT (GPT4)）
 
 ### 1. GPT(Generated Pretrained Transformer)(生成式预训练模型)
 
 #### 1.1 GPT1
 
 paper:[Improving Language Understanding by Generative Pretraining](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+code:[openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm)
+
+#### 1.2 GPT2
+
+paper:[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+code:[openai/gpt-2](https://github.com/openai/gpt-2)
+
+#### 1.3 GPT3
+
+paper:[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165v4)
+
+code:未开源(Not open source)
+
+#### 1.4 GPT3.5(InstructionGPT)
+
+paper(有两篇供参考)(There are two ones to be referred):[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+
+​																						          [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+
+code:未开源(Not open source)
 
