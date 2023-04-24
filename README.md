@@ -336,9 +336,9 @@ code:[huggingface/distilbert-base-uncased-distilled-squad](https://huggingface.c
 
 #### 3.16 Switch Transformer
 
-paper:
+paper:[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
 
-code:
+code:[LoniQin/english-spanish-translation-switch-transformer](https://github.com/LoniQin/english-spanish-translation-switch-transformer) (Not Source Code,just an example)
 
 #### 3.17 Mirror-BERT
 
