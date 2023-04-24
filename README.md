@@ -30,7 +30,7 @@ code:未开源(Not open source)
 
 paper(有两篇供参考)(There are two ones to be referred):
 
-[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)																		  
 
 [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 
@@ -56,7 +56,49 @@ paper:[Distributed Representations of Sentences and Documents](https://arxiv.org
 
 code:[Gensim/Doc2Vec Model](https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html)
 
-
-
 (Gensim is a popular python nlp processing library)
+
+#### 2.3 Context2Vec
+
+paper:[context2vec: Learning Generic Context Embedding with Bidirectional LSTM](https://aclanthology.org/K16-1006.pdf)
+
+code:[orenmel/context2Vec](https://github.com/orenmel/context2vec)
+
+#### 2.4 lda2Vec
+
+paper:[Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec](https://arxiv.org/abs/1605.02019v1)
+
+code:[cemoody/lda2vec](https://github.com/cemoody/lda2vec)
+
+#### 2.5 TWEC
+
+paper:[Training Temporal Word Embeddings with a Compass](https://arxiv.org/abs/1906.02376v1)
+
+code:[valedica/twec](https://github.com/valedica/twec)
+
+#### 2.6 USE
+
+paper:[Multilingual Universal Sentence Encoder for Semantic Retrieval](https://arxiv.org/abs/1907.04307v1)
+
+code:未找到(Failed to find)
+
+#### 2.7 fastText
+
+paper:[Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606v2)
+
+code:[facebookresearch/fastText](https://github.com/facebookresearch/fastText)
+
+#### 2.8 ELMo
+
+paper:[Deep contextualized word representations](https://arxiv.org/abs/1802.05365v2)
+
+code:[HIT-SCIR/ELMoForManyLangs](https://github.com/HIT-SCIR/ELMoForManyLangs)
+
+#### 2.9 GloVe
+
+paper:[GloVe:Global Vectors for Word Representation](https://www-nlp.stanford.edu/pubs/glove.pdf)
+
+code:[stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe)
+
+
 
