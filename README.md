@@ -364,6 +364,12 @@ paper:[Charformer: Fast Character Transformers via Gradient-based Subword Tokeni
 
 code:[google-research/charformer](https://github.com/google-research/google-research/tree/master/charformer)
 
+#### 3.19 Big Bird
+
+paper:[Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
+
+code:[google-research/bigbird](https://github.com/google-research/bigbird)
+
 ### 4. Attention
 
 #### 4.1 Self-Attention 
@@ -548,33 +554,41 @@ web:https://tiangong.kunlun.com/ (Not currently open to the public)
 
 web:https://wen.mobvoi.com/ (Not currently open to the public)
 
-### 17 Bard
+### 17 式说(SageGPT) (第四范式 4Paradigm)
+
+web:http://www.4paradigm.com/product/SageGPT.html (Not currently open to the public)
+
+### 18 Bard
 
 web:https://bard.google.com/
 
-### 18 AutoGPT
+### 19 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 19 AgentGPT (AutoGPT Powered)
+### 20 AgentGPT (AutoGPT Powered)
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
 web:https://agentgpt.reworkd.ai/
 
-### 20 MiniGPT-4
+### 21 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 21 Chat with Open Large Language Models
+### 22 HuggingChat
+
+web:https://huggingface.co/chat
+
+### 23 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 22 FactGPT
+### 24 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 23 GPTZero
+### 25 GPTZero
 
 web:https://gptzero.me/
 
