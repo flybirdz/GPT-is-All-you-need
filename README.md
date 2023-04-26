@@ -182,7 +182,19 @@ code:未开源(Not open source)
 
 paper:[Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
 
+code:未开源(Not open source)
 
+#### 1.29 Yuan 1.0
+
+paper:[Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning](https://arxiv.org/abs/2110.04725)
+
+code:未开源(Not open source)
+
+#### 1.30 Mengzi
+
+paper:[Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese](https://arxiv.org/abs/2110.06696)
+
+code:[Langboat/Mengzi](https://github.com/Langboat/Mengzi)
 
 ### 2.Embeedings
 
@@ -452,7 +464,116 @@ paper:[Framewise Phoneme Classification with Bidirectional LSTM Networks](https:
 
 code:[tensorflow/keras/bidirectional](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Bidirectional) (Not Source Code)
 
+### 6. 已有的类ChatGPT产品及基于ChatGPT的应用(Existing ChatGPT-like products and applications based on ChatGPT)
 
+#### 6.1 ChatDoc
 
+intro:ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate, and summarize information from PDFs.
 
+web:https://chatdoc.com/
 
+#### 6.2 ChatExcel
+
+intro:仅通过聊天来操控您的Excel表格
+
+web:https://chatexcel.com/
+
+#### 6.3 BriefGPT
+
+intro:Arxiv论文速递
+
+web:https://briefgpt.xyz/
+
+#### 6.4 一起用AI & GPT3demo
+
+intro:collections of AI products and gpt-based products
+
+web:
+
+https://17yongai.com
+
+https://gpt3demo.com/
+
+#### 6.5 Claude
+
+intro:The Strongest Competitor of ChatGPT
+
+web:https://www.slack.com/ (app inside slack)
+
+#### 6.6 Notion AI
+
+intro:Write notes intelligently
+
+web:https://www.notion.so/ (inside Notion)
+
+#### 6.7 Microsoft  365 AI
+
+Inside Microsoft 365 (Not available in some countries)
+
+#### 6.8 WPS AI
+
+Inside WPS(A Chinese Microsoft 365-like Product) (Not currently open to the public)
+
+#### 6.9文心一言 (百度 Baidu)
+
+web:https://yiyan.baidu.com/welcome (Not currently open to the public)
+
+#### 6.10 通义千问 (阿里巴巴 Alibaba)
+
+web:https://tongyi.aliyun.com/ (Not currently open to the public)
+
+#### 6.11 商量 (商汤科技 SenseTime)
+
+web:https://chat.sensetime.com/ (Not currently open to the public)
+
+#### 6.12 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
+
+web:https://xinghuo.xfyun.cn/ (Not currently open to the public)
+
+#### 6.13 MOSS (复旦大学 FDU)
+
+web:https://moss.fastnlp.top/ (Not currently open to the public)
+
+code:[OpenLMlab/MOSS](https://github.com/OpenLMLab/MOSS)
+
+#### 6.14 曹植 (达观数据 Data Grand)
+
+web:http://www.datagrand.com/products/aigc/ (Not currently open to the public)
+
+#### 6.15 天工AI助手 (昆仑万维 & 奇点智源)
+
+web:https://tiangong.kunlun.com/ (Not currently open to the public)
+
+#### 6.16 奇妙文 (出门问问 Mobvoi)
+
+web:https://wen.mobvoi.com/ (Not currently open to the public)
+
+#### 6.17 Bard
+
+web:https://bard.google.com/
+
+#### 6.18 AutoGPT
+
+code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
+#### 6.19 AgentGPT
+
+code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
+
+web:https://agentgpt.reworkd.ai/
+
+#### 6.20 MiniGPT-4
+
+code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
+
+#### 6.21 Chat with Open Large Language Models
+
+web:https://chat.lmsys.org/
+
+#### 6.22 FactGPT
+
+web:https://factgpt-fe.vercel.app/
+
+#### 6.23 GPTZero
+
+web:https://gptzero.me/
