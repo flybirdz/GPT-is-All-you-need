@@ -580,9 +580,7 @@ web:https://gptzero.me/
 
 ## 四、GPT和LLM的理论研究与应用研究(Theoretical and applied research of GPT and LLM)
 
-## 五、关于GPT和LLM的博客与文章（主要来自微信公众号和Medium) 
-
-##     Blogs and articles about GPT and LLM (mainly from WeChat public account and Medium)
+## 五、关于GPT和LLM的博客与文章（主要来自微信公众号和Medium）（Blogs and articles about GPT and LLM (mainly from WeChat public account and Medium)）
 
 ## 六、写在最后(Write At The End)
 
