@@ -464,27 +464,27 @@ paper:[Framewise Phoneme Classification with Bidirectional LSTM Networks](https:
 
 code:[tensorflow/keras/bidirectional](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Bidirectional) (Not Source Code)
 
-### 6. 已有的类ChatGPT产品及基于ChatGPT的应用(Existing ChatGPT-like products and applications based on ChatGPT)
+## 三、已有的类ChatGPT产品及基于ChatGPT的应用(Existing ChatGPT-like products and applications based on ChatGPT)
 
-#### 6.1 ChatDoc
+### 1  ChatDoc
 
 intro:ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate, and summarize information from PDFs.
 
 web:https://chatdoc.com/
 
-#### 6.2 ChatExcel
+### 2  ChatExcel
 
 intro:仅通过聊天来操控您的Excel表格
 
 web:https://chatexcel.com/
 
-#### 6.3 BriefGPT
+### 3 BriefGPT
 
 intro:Arxiv论文速递
 
 web:https://briefgpt.xyz/
 
-#### 6.4 一起用AI & GPT3demo
+### 4 一起用AI & GPT3demo
 
 intro:collections of AI products and gpt-based products
 
@@ -494,86 +494,98 @@ https://17yongai.com
 
 https://gpt3demo.com/
 
-#### 6.5 Claude
+### 5 Claude
 
 intro:The Strongest Competitor of ChatGPT
 
 web:https://www.slack.com/ (app inside slack)
 
-#### 6.6 Notion AI
+### 6 Notion AI
 
 intro:Write notes intelligently
 
 web:https://www.notion.so/ (inside Notion)
 
-#### 6.7 Microsoft  365 AI
+### 7 Microsoft 365 AI
 
 Inside Microsoft 365 (Not available in some countries)
 
-#### 6.8 WPS AI
+### 8 WPS AI
 
 Inside WPS(A Chinese Microsoft 365-like Product) (Not currently open to the public)
 
-#### 6.9文心一言 (百度 Baidu)
+### 9 文心一言 (百度 Baidu)
 
 web:https://yiyan.baidu.com/welcome (Not currently open to the public)
 
-#### 6.10 通义千问 (阿里巴巴 Alibaba)
+### 10 通义千问 (阿里巴巴 Alibaba)
 
 web:https://tongyi.aliyun.com/ (Not currently open to the public)
 
-#### 6.11 商量 (商汤科技 SenseTime)
+### 11 商量 (商汤科技 SenseTime)
 
 web:https://chat.sensetime.com/ (Not currently open to the public)
 
-#### 6.12 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
+### 12 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
 
 web:https://xinghuo.xfyun.cn/ (Not currently open to the public)
 
-#### 6.13 MOSS (复旦大学 FDU)
+### 13 MOSS (复旦大学 FDU)
 
 web:https://moss.fastnlp.top/ (Not currently open to the public)
 
 code:[OpenLMlab/MOSS](https://github.com/OpenLMLab/MOSS)
 
-#### 6.14 曹植 (达观数据 Data Grand)
+### 14 曹植 (达观数据 Data Grand)
 
 web:http://www.datagrand.com/products/aigc/ (Not currently open to the public)
 
-#### 6.15 天工AI助手 (昆仑万维 & 奇点智源)
+### 15 天工AI助手 (昆仑万维 & 奇点智源)
 
 web:https://tiangong.kunlun.com/ (Not currently open to the public)
 
-#### 6.16 奇妙文 (出门问问 Mobvoi)
+### 16 奇妙文 (出门问问 Mobvoi)
 
 web:https://wen.mobvoi.com/ (Not currently open to the public)
 
-#### 6.17 Bard
+### 17 Bard
 
 web:https://bard.google.com/
 
-#### 6.18 AutoGPT
+### 18 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-#### 6.19 AgentGPT
+### 19 AgentGPT (AutoGPT Powered)
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
 web:https://agentgpt.reworkd.ai/
 
-#### 6.20 MiniGPT-4
+### 20 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-#### 6.21 Chat with Open Large Language Models
+### 21 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-#### 6.22 FactGPT
+### 22 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-#### 6.23 GPTZero
+### 23 GPTZero
 
 web:https://gptzero.me/
+
+## 四、GPT和LLM的理论研究与应用研究(Theoretical and applied research of GPT and LLM)
+
+## 五、关于GPT和LLM的博客与文章（主要来自微信公众号和Medium) 
+
+##     Blogs and articles about GPT and LLM (mainly from WeChat public account and Medium)
+
+## 六、写在最后(Write At The End)
+
+人工智能（AI）的发展日新月异，AI的进步速度远远超乎我们的想象，我们应该始终保持学习的动力，积极主动拥抱AI新时代。但同时，也要看到大规模应用AI所带来的潜在风险和LLM的局限性。因此，我们应该拥有独立思考的能力，辩证看待AI，AIGC和LLM的发展。无论如何，我们的终极目标都是让AI造福人类，造福世界。
+
+The development of Artificial Intelligence(AI) is changing with each passing day, and the speed of AI progress is far beyond our imagination. We should always maintain the motivation of learning and actively embrace the new era of AI. But at the same time, we must also see the potential risks brought about by the large-scale application of AI and the limitations of LLM. Therefore, we should have the ability to think independently and look at the development of AI, AIGC and LLM dialectically. In any case, our ultimate goal is to make AI benefit mankind and the world.
