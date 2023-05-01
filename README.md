@@ -577,33 +577,33 @@ code:[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
 code:[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
 
-### 19 AutoGPT
+### 21 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 20 AgentGPT (AutoGPT Powered)
+### 22 AgentGPT (AutoGPT Powered)
 
 web:https://agentgpt.reworkd.ai/
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
-### 21 MiniGPT-4
+### 23 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 22 HuggingChat
+### 24 HuggingChat
 
 web:https://huggingface.co/chat
 
-### 23 Chat with Open Large Language Models
+### 25 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 24 FactGPT
+### 26 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 25 GPTZero
+### 27 GPTZero
 
 web:https://gptzero.me/
 
