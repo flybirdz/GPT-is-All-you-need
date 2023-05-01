@@ -136,61 +136,66 @@ code:
 
 [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)
 
-#### 1.21 GLM-130B
+#### 1.21 GLM
+paper:[GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360)
+
+code:[THUDM/GLM](https://github.com/THUDM/GLM)
+
+#### 1.22 GLM-130B
 
 paper:[GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL](https://arxiv.org/pdf/2210.02414.pdf)
 
 code:[THUDM/GLM-130B](https://github.com/THUDM/GLM-130B)
 
-#### 1.22 LLaMA
+#### 1.23 LLaMA
 
 paper:[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 
 code:[facebookresearch/llama](https://github.com/facebookresearch/llama)
 
-#### 1.23 GPT4
+#### 1.24 GPT4
 
 paper:[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 
 code:未开源(Not open source)
 
-#### 1.24 BloombergGPT
+#### 1.25 BloombergGPT
 
 paper:[BloombergGPT:A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 
 code:未开源(Not open source)
 
-#### 1.25 Cerabras-GPT
+#### 1.26 Cerabras-GPT
 
 paper:[Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster](https://arxiv.org/abs/2304.03208)
 
 code:[huggingface/cerabras](https://huggingface.co/cerebras)
 
-#### 1.26 PanGu-α
+#### 1.27 PanGu-α
 
 paper:[PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369v1)
 
 code:[huawei-noah/Pretrained-Language-Model/PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)
 
-#### 1.27 PanGu-Σ
+#### 1.28 PanGu-Σ
 
 paper:[PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing](https://arxiv.org/abs/2303.10845)
 
 code:未开源(Not open source)
 
-#### 1.28 AlphaCode
+#### 1.29 AlphaCode
 
 paper:[Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
 
 code:未开源(Not open source)
 
-#### 1.29 Yuan 1.0
+#### 1.30 Yuan 1.0
 
 paper:[Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning](https://arxiv.org/abs/2110.04725)
 
 code:未开源(Not open source)
 
-#### 1.30 Mengzi
+#### 1.31 Mengzi
 
 paper:[Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese](https://arxiv.org/abs/2110.06696)
 
@@ -562,15 +567,25 @@ web:http://www.4paradigm.com/product/SageGPT.html (Not currently open to the pub
 
 web:https://bard.google.com/
 
+### 19 Alpaca
+
+web:已关停(Now has been shut down)
+
+code:[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+
+### 20 ChatGLM
+
+code:[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
+
 ### 19 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 ### 20 AgentGPT (AutoGPT Powered)
 
-code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
-
 web:https://agentgpt.reworkd.ai/
+
+code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
 ### 21 MiniGPT-4
 
