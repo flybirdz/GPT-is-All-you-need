@@ -201,6 +201,12 @@ paper:[Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese]
 
 code:[Langboat/Mengzi](https://github.com/Langboat/Mengzi)
 
+#### 1.32 PaLM2
+
+paper:[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
+
+code:未开源(Not open source)
+
 ### 2.Embeedings
 
 #### 2.1 Word2Vec
@@ -259,7 +265,7 @@ paper:[GloVe:Global Vectors for Word Representation](https://www-nlp.stanford.ed
 
 code:[stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe)
 
-### 3.Transformer and its variants
+### 3.Transformer and Its Variants
 
 #### 3.1 Transformer
 
@@ -401,7 +407,7 @@ paper:[ETC: Encoding Long and Structured Inputs in Transformers](https://arxiv.o
 
 code:[google-research/etcmodel](https://github.com/google-research/google-research/tree/master/etcmodel)
 
-#### 4.5 Sparce Attention
+#### 4.5 Sparse Attention
 
 paper:[Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509v1.pdf)
 
@@ -525,29 +531,33 @@ Inside Microsoft 365 (Not available in some countries)
 
 Inside WPS(A Chinese Microsoft 365-like Product) (Not currently open to the public)
 
-### 9 文心一言 (百度 Baidu)
+### 9 飞书"My AI"
+
+Inside 飞书(A Chinese office software) (Not currently open to the public)
+
+### 10 文心一言 (百度 Baidu)
 
 web:https://yiyan.baidu.com/welcome (Not currently open to the public)
 
-### 10 通义千问 (阿里巴巴 Alibaba)
+### 11 通义千问 (阿里巴巴 Alibaba)
 
 web:https://tongyi.aliyun.com/ (Not currently open to the public)
 
-### 11 商量 (商汤科技 SenseTime)
+### 12 商量 (商汤科技 SenseTime)
 
 web:https://chat.sensetime.com/ (Not currently open to the public)
 
-### 12 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
+### 13 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
 
-web:https://xinghuo.xfyun.cn/ (Not currently open to the public)
+web:https://xinghuo.xfyun.cn/ 
 
-### 13 MOSS (复旦大学 FDU)
+### 14 MOSS (复旦大学 FDU)
 
 web:https://moss.fastnlp.top/ (Not currently open to the public)
 
 code:[OpenLMlab/MOSS](https://github.com/OpenLMLab/MOSS)
 
-### 14 曹植 (达观数据 Data Grand)
+### 15 曹植 (达观数据 Data Grand)
 
 web:http://www.datagrand.com/products/aigc/ (Not currently open to the public)
 
@@ -555,7 +565,7 @@ web:http://www.datagrand.com/products/aigc/ (Not currently open to the public)
 
 web:https://tiangong.kunlun.com/ (Not currently open to the public)
 
-### 16 奇妙文 (出门问问 Mobvoi)
+### 16 奇妙文(序列猴子) (出门问问 Mobvoi)
 
 web:https://wen.mobvoi.com/ (Not currently open to the public)
 
