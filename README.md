@@ -207,6 +207,18 @@ paper:[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techrepo
 
 code:未开源(Not open source)
 
+#### 1.33 GraphCast
+
+paper:[GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794)
+
+code:未开源(Not open source)
+
+#### 1.34 FengWu
+
+paper:[FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead](https://arxiv.org/abs/2304.02948)
+
+code:未开源(Not open source)
+
 ### 2.Embeedings
 
 #### 2.1 Word2Vec
