@@ -108,17 +108,17 @@ paper:[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204
 
 code:[lucidrains/PaLM-pytorch](https://github.com/lucidrains/PaLM-pytorch)
 
-#### 1.17 BaGuaLu
-
-paper:[BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores](https://dl.acm.org/doi/pdf/10.1145/3503221.3508417)
-
-code:未开源(Not open source)
-
-#### 1.18 OPT
+#### 1.17 OPT
 
 paper:[OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068)
 
 code:[facebookresearch/metaseq](https://github.com/facebookresearch/metaseq)
+
+#### 1.18 BaGuaLu
+
+paper:[BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores](https://dl.acm.org/doi/pdf/10.1145/3503221.3508417)
+
+code:未开源(Not open source)
 
 #### 1.19 Minerva
 
@@ -147,77 +147,71 @@ paper:[GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL](https://arxiv.org/pdf/2210
 
 code:[THUDM/GLM-130B](https://github.com/THUDM/GLM-130B)
 
-#### 1.23 LLaMA
+#### 1.23 ChatGLM
+
+code:[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
+
+#### 1.24 LLaMA
 
 paper:[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 
 code:[facebookresearch/llama](https://github.com/facebookresearch/llama)
 
-#### 1.24 GPT4
+#### 1.25 Alpaca
+
+code:[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+
+#### 1.26 GPT4
 
 paper:[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 
 code:未开源(Not open source)
 
-#### 1.25 BloombergGPT
+#### 1.27 Vicuna/FastChat
 
-paper:[BloombergGPT:A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+code:[lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 
-code:未开源(Not open source)
-
-#### 1.26 Cerabras-GPT
+#### 1.28 Cerabras-GPT
 
 paper:[Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster](https://arxiv.org/abs/2304.03208)
 
 code:[huggingface/cerabras](https://huggingface.co/cerebras)
 
-#### 1.27 PanGu-α
+#### 1.29 PanGu-α
 
 paper:[PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369v1)
 
 code:[huawei-noah/Pretrained-Language-Model/PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)
 
-#### 1.28 PanGu-Σ
+#### 1.30 PanGu-Σ
 
 paper:[PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing](https://arxiv.org/abs/2303.10845)
 
 code:未开源(Not open source)
 
-#### 1.29 AlphaCode
-
-paper:[Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
-
-code:未开源(Not open source)
-
-#### 1.30 Yuan 1.0
+#### 1.31 Yuan 1.0
 
 paper:[Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning](https://arxiv.org/abs/2110.04725)
 
 code:未开源(Not open source)
 
-#### 1.31 Mengzi
+#### 1.32 Mengzi
 
 paper:[Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese](https://arxiv.org/abs/2110.06696)
 
 code:[Langboat/Mengzi](https://github.com/Langboat/Mengzi)
 
-#### 1.32 PaLM2
+#### 1.33 PaLM2
 
 paper:[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 
 code:未开源(Not open source)
 
-#### 1.33 GraphCast
+#### 1.34 LLaMA-Adapter
 
-paper:[GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794)
+paper:[LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199)
 
-code:未开源(Not open source)
-
-#### 1.34 FengWu
-
-paper:[FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead](https://arxiv.org/abs/2304.02948)
-
-code:未开源(Not open source)
+code:[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
 ### 2.Embeedings
 
@@ -463,6 +457,8 @@ code:[farizrahman4u/seq2seq](https://github.com/farizrahman4u/seq2seq)
 
 paper:[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144v2)
 
+code:[google/sentencepiece](https://github.com/google/sentencepiece)
+
 #### 5.7 SentencePiece
 
 paper:[SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/abs/1808.06226v1)
@@ -495,25 +491,13 @@ code:[tensorflow/keras/bidirectional](https://www.tensorflow.org/api_docs/python
 
 ## 三、已有的类ChatGPT产品及基于ChatGPT的应用(Existing ChatGPT-like products and applications based on ChatGPT)
 
-### 1  ChatDoc
-
-intro:ChatDOC is a ChatGPT-based file-reading assistant that can quickly extract, locate, and summarize information from PDFs.
-
-web:https://chatdoc.com/
-
-### 2  ChatExcel
-
-intro:仅通过聊天来操控您的Excel表格
-
-web:https://chatexcel.com/
-
-### 3 BriefGPT
+### 1 BriefGPT
 
 intro:Arxiv论文速递
 
 web:https://briefgpt.xyz/
 
-### 4 一起用AI & GPT3demo
+### 2 一起用AI & GPT3demo
 
 intro:collections of AI products and gpt-based products
 
@@ -523,53 +507,57 @@ https://17yongai.com
 
 https://gpt3demo.com/
 
-### 5 Claude
+### 3 Claude
 
-intro:The Strongest Competitor of ChatGPT
+intro:One of the Strongest Competitor of ChatGPT
 
 web:https://www.slack.com/ (app inside slack)
 
-### 6 Notion AI
+### 4 Notion AI
 
 intro:Write notes intelligently
 
 web:https://www.notion.so/ (inside Notion)
 
-### 7 Microsoft 365 AI
+### 5 Microsoft 365 AI
 
 Inside Microsoft 365 (Not available in some countries)
 
-### 8 WPS AI
+### 6 WPS AI
 
 Inside WPS(A Chinese Microsoft 365-like Product) (Not currently open to the public)
 
-### 9 飞书"My AI"
+### 7 Windows Copilot
 
-Inside 飞书(A Chinese office software) (Not currently open to the public)
+Inside Windows (Not currently open to the public)
 
-### 10 文心一言 (百度 Baidu)
+### 8 飞书"My AI"
 
-web:https://yiyan.baidu.com/welcome (Not currently open to the public)
+Inside 飞书(Lark) (A Chinese office software) (Not currently open to the public)
 
-### 11 通义千问 (阿里巴巴 Alibaba)
+### 9 文心一言 (百度 Baidu)
 
-web:https://tongyi.aliyun.com/ (Not currently open to the public)
+web:https://yiyan.baidu.com/welcome (Gradually open to the public)
 
-### 12 商量 (商汤科技 SenseTime)
+### 10 通义千问 (阿里巴巴 Alibaba)
+
+web:https://tongyi.aliyun.com/ (Gradually open to the public)
+
+### 11 商量 (商汤科技 SenseTime)
 
 web:https://chat.sensetime.com/ (Not currently open to the public)
 
-### 13 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
+### 12 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
 
 web:https://xinghuo.xfyun.cn/ 
 
-### 14 MOSS (复旦大学 FDU)
+### 13 MOSS (复旦大学 FDU)
 
 web:https://moss.fastnlp.top/ (Not currently open to the public)
 
 code:[OpenLMlab/MOSS](https://github.com/OpenLMLab/MOSS)
 
-### 15 曹植 (达观数据 Data Grand)
+### 14 曹植 (达观数据 Data Grand)
 
 web:http://www.datagrand.com/products/aigc/ (Not currently open to the public)
 
@@ -585,47 +573,49 @@ web:https://wen.mobvoi.com/ (Not currently open to the public)
 
 web:http://www.4paradigm.com/product/SageGPT.html (Not currently open to the public)
 
-### 18 Bard
+### 18 从容(云从科技 CloudWalk)
+
+web:https://maas.cloudwalk.com/ (Not currently open to the public)
+
+### 19 天河天元(国家超级计算天津中心)
+
+web:无 (Not currently open to the public)
+
+### 20 露卡(Luca) (面壁智能&知乎 Modelbest&Zhihu)
+
+web:无 (Not currently open to the public)
+
+### 21 Bard
 
 web:https://bard.google.com/
 
-### 19 Alpaca
-
-web:已关停(Now has been shut down)
-
-code:[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
-
-### 20 ChatGLM
-
-code:[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
-
-### 21 AutoGPT
+### 22 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 22 AgentGPT (AutoGPT Powered)
+### 23 AgentGPT (AutoGPT Powered)
 
 web:https://agentgpt.reworkd.ai/
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
-### 23 MiniGPT-4
+### 24 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 24 HuggingChat
+### 25 HuggingChat
 
 web:https://huggingface.co/chat
 
-### 25 Chat with Open Large Language Models
+### 26 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 26 FactGPT
+### 27 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 27 GPTZero
+### 28 GPTZero
 
 web:https://gptzero.me/
 
