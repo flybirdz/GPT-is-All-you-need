@@ -213,6 +213,10 @@ paper:[LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init At
 
 code:[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
+#### 1.35 CPM-Bee
+
+code:[OpenBMB/CPM-Bee](https://github.com/OpenBMB/CPM-Bee)
+
 ### 2.Embeedings
 
 #### 2.1 Word2Vec
