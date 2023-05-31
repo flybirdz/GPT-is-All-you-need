@@ -539,87 +539,91 @@ Inside Windows (Not currently open to the public)
 
 Inside 飞书(Lark) (A Chinese office software) (Not currently open to the public)
 
-### 9 文心一言 (百度 Baidu)
+### 9 钉钉"/"(魔法棒)
+
+Inside 钉钉 (A Chinese office software) (Not currently open to the public)
+
+### 10 文心一言 (百度 Baidu)
 
 web:https://yiyan.baidu.com/welcome (Gradually open to the public)
 
-### 10 通义千问 (阿里巴巴 Alibaba)
+### 11 通义千问 (阿里巴巴 Alibaba)
 
 web:https://tongyi.aliyun.com/ (Gradually open to the public)
 
-### 11 商量 (商汤科技 SenseTime)
+### 12 商量 (商汤科技 SenseTime)
 
 web:https://chat.sensetime.com/ (Not currently open to the public)
 
-### 12 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
+### 13 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
 
 web:https://xinghuo.xfyun.cn/ 
 
-### 13 MOSS (复旦大学 FDU)
+### 14 MOSS (复旦大学 FDU)
 
 web:https://moss.fastnlp.top/ (Not currently open to the public)
 
 code:[OpenLMlab/MOSS](https://github.com/OpenLMLab/MOSS)
 
-### 14 曹植 (达观数据 Data Grand)
+### 15 曹植 (达观数据 Data Grand)
 
 web:http://www.datagrand.com/products/aigc/ (Not currently open to the public)
 
-### 15 天工AI助手 (昆仑万维 & 奇点智源)
+### 16 天工AI助手 (昆仑万维 & 奇点智源)
 
 web:https://tiangong.kunlun.com/ (Not currently open to the public)
 
-### 16 奇妙文(序列猴子) (出门问问 Mobvoi)
+### 17 奇妙文(序列猴子) (出门问问 Mobvoi)
 
 web:https://wen.mobvoi.com/ (Not currently open to the public)
 
-### 17 式说(SageGPT) (第四范式 4Paradigm)
+### 18 式说(SageGPT) (第四范式 4Paradigm)
 
 web:http://www.4paradigm.com/product/SageGPT.html (Not currently open to the public)
 
-### 18 从容(云从科技 CloudWalk)
+### 19 从容(云从科技 CloudWalk)
 
 web:https://maas.cloudwalk.com/ (Not currently open to the public)
 
-### 19 天河天元(国家超级计算天津中心)
+### 20 天河天元(国家超级计算天津中心)
 
 web:无 (Not currently open to the public)
 
-### 20 露卡(Luca) (面壁智能&知乎 Modelbest&Zhihu)
+### 21 露卡(Luca) (面壁智能&知乎 Modelbest&Zhihu)
 
 web:无 (Not currently open to the public)
 
-### 21 Bard
+### 22 Bard
 
 web:https://bard.google.com/
 
-### 22 AutoGPT
+### 23 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 23 AgentGPT (AutoGPT Powered)
+### 24 AgentGPT (AutoGPT Powered)
 
 web:https://agentgpt.reworkd.ai/
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
-### 24 MiniGPT-4
+### 25 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 25 HuggingChat
+### 26 HuggingChat
 
 web:https://huggingface.co/chat
 
-### 26 Chat with Open Large Language Models
+### 27 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 27 FactGPT
+### 28 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 28 GPTZero
+### 29 GPTZero
 
 web:https://gptzero.me/
 
