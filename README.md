@@ -501,15 +501,17 @@ intro:Arxiv论文速递
 
 web:https://briefgpt.xyz/
 
-### 2 一起用AI & GPT3demo
+### 2 一起用AI、GPT3demo、AI Library
 
-intro:collections of AI products and gpt-based products
+intro:collections of AI products(tools) and gpt-based products(tools)
 
 web:
 
 https://17yongai.com
 
 https://gpt3demo.com/
+
+https://library.phygital.plus/
 
 ### 3 Claude
 
