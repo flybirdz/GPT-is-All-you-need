@@ -501,7 +501,7 @@ intro:Arxiv论文速递
 
 web:https://briefgpt.xyz/
 
-### 2 一起用AI、GPT3demo、AI Library
+### 2 一起用AI、GPT3demo、Futurepedia、AI Library
 
 intro:collections of AI products(tools) and gpt-based products(tools)
 
@@ -510,6 +510,8 @@ web:
 https://17yongai.com
 
 https://gpt3demo.com/
+
+https://www.futurepedia.io/
 
 https://library.phygital.plus/
 
@@ -595,37 +597,47 @@ web:无 (Not currently open to the public)
 
 web:无 (Not currently open to the public)
 
-### 22 Bard
+### 22 360智脑
+
+web:https://ai.360.cn/
+
+### 23 TigerBot
+
+code:[TigerResearch/TigerBot](https://github.com/TigerResearch/TigerBot)
+
+web:https://www.tigerbot.com/
+
+### 24 Bard
 
 web:https://bard.google.com/
 
-### 23 AutoGPT
+### 25 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 24 AgentGPT (AutoGPT Powered)
+### 26 AgentGPT (AutoGPT Powered)
 
 web:https://agentgpt.reworkd.ai/
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
-### 25 MiniGPT-4
+### 27 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 26 HuggingChat
+### 28 HuggingChat
 
 web:https://huggingface.co/chat
 
-### 27 Chat with Open Large Language Models
+### 29 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 28 FactGPT
+### 30 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 29 GPTZero
+### 31 GPTZero
 
 web:https://gptzero.me/
 
