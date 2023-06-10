@@ -607,37 +607,41 @@ code:[TigerResearch/TigerBot](https://github.com/TigerResearch/TigerBot)
 
 web:https://www.tigerbot.com/
 
-### 24 Bard
+### 24 山海(云知声 UniSound)
+
+web:https://shanhai.unisound.com/
+
+### 25 Bard
 
 web:https://bard.google.com/
 
-### 25 AutoGPT
+### 26 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 26 AgentGPT (AutoGPT Powered)
+### 27 AgentGPT (AutoGPT Powered)
 
 web:https://agentgpt.reworkd.ai/
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
-### 27 MiniGPT-4
+### 28 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 28 HuggingChat
+### 29 HuggingChat
 
 web:https://huggingface.co/chat
 
-### 29 Chat with Open Large Language Models
+### 30 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 30 FactGPT
+### 31 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 31 GPTZero
+### 32 GPTZero
 
 web:https://gptzero.me/
 
