@@ -147,13 +147,15 @@ paper:[GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL](https://arxiv.org/pdf/2210
 
 code:[THUDM/GLM-130B](https://github.com/THUDM/GLM-130B)
 
-#### 1.23 ChatGLM
-
-code:[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
-
-#### 1.24 LLaMA
+#### 1.23 LLaMA
 
 paper:[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+
+code:[facebookresearch/llama](https://github.com/facebookresearch/llama)
+
+#### 1.24 LLAMA2
+
+paper:[LLAMA2:Open Foundation and Fine-Tuned Chat Models](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=ByL78P2ckIMAX8z5u_N&_nc_ht=scontent-lax3-1.xx&oh=00_AfAVpYZQDzxoFVdlKL7ShJuiI372Us5Buygs31qZXgUzUQ&oe=64C84A3F)
 
 code:[facebookresearch/llama](https://github.com/facebookresearch/llama)
 
@@ -515,11 +517,11 @@ https://www.futurepedia.io/
 
 https://library.phygital.plus/
 
-### 3 Claude
+### 3 Claude/Claude2
 
-intro:One of the Strongest Competitor of ChatGPT
+intro:The Strongest Competitor of ChatGPT
 
-web:https://www.slack.com/ (app inside slack)
+web:https://claude.ai/
 
 ### 4 Notion AI
 
@@ -533,11 +535,11 @@ Inside Microsoft 365 (Not available in some countries)
 
 ### 6 WPS AI
 
-Inside WPS(A Chinese Microsoft 365-like Product) (Not currently open to the public)
+Inside WPS(A Chinese Microsoft 365-like Product)
 
 ### 7 Windows Copilot
 
-Inside Windows (Not currently open to the public)
+Inside Windows (Not available in some countries)
 
 ### 8 飞书"My AI"
 
@@ -553,7 +555,7 @@ web:https://yiyan.baidu.com/welcome (Gradually open to the public)
 
 ### 11 通义千问 (阿里巴巴 Alibaba)
 
-web:https://tongyi.aliyun.com/ (Gradually open to the public)
+web:https://tongyi.aliyun.com/
 
 ### 12 商量 (商汤科技 SenseTime)
 
@@ -611,37 +613,51 @@ web:https://www.tigerbot.com/
 
 web:https://shanhai.unisound.com/
 
-### 25 Bard
+### 25 ChatGLM(THUDM&智谱AI)
+
+code:[参见清华大学KEG实验室官方github](https://github.com/THUDM)
+
+web:https://chatglm.cn/
+
+### 26 Perplexity AI
+
+web:https://www.perplexity.ai/
+
+### 27 灵羽助手
+
+web:https://www.ai-anywhere.com/(目前只有电脑客户端)
+
+### 28 Bard
 
 web:https://bard.google.com/
 
-### 26 AutoGPT
+### 29 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 27 AgentGPT (AutoGPT Powered)
+### 30 AgentGPT (AutoGPT Powered)
 
 web:https://agentgpt.reworkd.ai/
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
-### 28 MiniGPT-4
+### 31 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 29 HuggingChat
+### 32 HuggingChat
 
 web:https://huggingface.co/chat
 
-### 30 Chat with Open Large Language Models
+### 33 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 31 FactGPT
+### 34 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 32 GPTZero
+### 35 GPTZero
 
 web:https://gptzero.me/
 
