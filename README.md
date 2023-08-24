@@ -627,6 +627,14 @@ web:https://www.perplexity.ai/
 
 web:https://www.ai-anywhere.com/(目前只有电脑客户端)
 
+### 28 Catalyst Plus(催化剂+)
+
+web:https://www.researchercosmos.com/(目前大部分功能只为客户端提供)
+
+### 29 MathGPT(好未来)
+
+web:www.mathgpt.com
+
 ### 28 Bard
 
 web:https://bard.google.com/
