@@ -219,6 +219,10 @@ code:[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
 code:[OpenBMB/CPM-Bee](https://github.com/OpenBMB/CPM-Bee)
 
+#### 1.36 Baichuan-7B
+
+code:[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)
+
 ### 2.Embeedings
 
 #### 2.1 Word2Vec
@@ -503,7 +507,7 @@ intro:Arxiv论文速递
 
 web:https://briefgpt.xyz/
 
-### 2 一起用AI、GPT3demo、Futurepedia、AI Library
+### 2 一起用AI、GPT3demo、Futurepedia、AI Library、AI工具集
 
 intro:collections of AI products(tools) and gpt-based products(tools)
 
@@ -517,87 +521,87 @@ https://www.futurepedia.io/
 
 https://library.phygital.plus/
 
-### 3 Claude/Claude2
+https://ai-bot.cn/
 
-intro:The Strongest Competitor of ChatGPT
+### 3 灵羽助手
 
-web:https://claude.ai/
+web:https://www.ai-anywhere.com/(目前只有电脑客户端)
 
-### 4 Notion AI
+### 4 Catalyst Plus(催化剂+)
+
+web:https://www.researchercosmos.com/(目前大部分功能只为客户端提供)
+
+### 5 Notion AI
 
 intro:Write notes intelligently
 
 web:https://www.notion.so/ (inside Notion)
 
-### 5 Microsoft 365 AI
+### 6 Microsoft 365 AI
 
 Inside Microsoft 365 (Not available in some countries)
 
-### 6 WPS AI
+### 7 WPS AI
 
 Inside WPS(A Chinese Microsoft 365-like Product)
 
-### 7 Windows Copilot
+### 8 Windows Copilot
 
 Inside Windows (Not available in some countries)
 
-### 8 飞书"My AI"
+### 9 飞书"My AI"
 
 Inside 飞书(Lark) (A Chinese office software) (Not currently open to the public)
 
-### 9 钉钉"/"(魔法棒)
+### 10 钉钉"/"(魔法棒)
 
 Inside 钉钉 (A Chinese office software) (Not currently open to the public)
 
-### 10 文心一言 (百度 Baidu)
+### 11 文心一言 (百度 Baidu)
 
-web:https://yiyan.baidu.com/welcome (Gradually open to the public)
+web:https://yiyan.baidu.com/welcome
 
-### 11 通义千问 (阿里巴巴 Alibaba)
+### 12 通义千问 (阿里巴巴 Alibaba)
 
 web:https://tongyi.aliyun.com/
 
-### 12 商量 (商汤科技 SenseTime)
+### 13 商量 (商汤科技 SenseTime)
 
-web:https://chat.sensetime.com/ (Not currently open to the public)
+web:https://chat.sensetime.com/
 
-### 13 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
+### 14 讯飞星火认知大模型 (科大讯飞 iFLYTEK)
 
 web:https://xinghuo.xfyun.cn/ 
 
-### 14 MOSS (复旦大学 FDU)
-
-web:https://moss.fastnlp.top/ (Not currently open to the public)
+### 15 MOSS (复旦大学 FDU)
 
 code:[OpenLMlab/MOSS](https://github.com/OpenLMLab/MOSS)
 
-### 15 曹植 (达观数据 Data Grand)
+web:https://moss.fastnlp.top/ (Not currently open to the public)
+
+### 16 曹植 (达观数据 Data Grand)
 
 web:http://www.datagrand.com/products/aigc/ (Not currently open to the public)
 
-### 16 天工AI助手 (昆仑万维 & 奇点智源)
+### 17 天工AI助手 (昆仑万维 & 奇点智源)
 
-web:https://tiangong.kunlun.com/ (Not currently open to the public)
+web:https://tiangong.kunlun.com/
 
-### 17 奇妙文(序列猴子) (出门问问 Mobvoi)
+### 18 奇妙文(序列猴子) (出门问问 Mobvoi)
 
-web:https://wen.mobvoi.com/ (Not currently open to the public)
+web:https://wen.mobvoi.com/
 
-### 18 式说(SageGPT) (第四范式 4Paradigm)
+### 19 式说(SageGPT) (第四范式 4Paradigm)
 
 web:http://www.4paradigm.com/product/SageGPT.html (Not currently open to the public)
 
-### 19 从容(云从科技 CloudWalk)
+### 20 从容(云从科技 CloudWalk)
 
 web:https://maas.cloudwalk.com/ (Not currently open to the public)
 
-### 20 天河天元(国家超级计算天津中心)
+### 21 面壁露卡(Luca) (面壁智能 Modelbest)
 
-web:无 (Not currently open to the public)
-
-### 21 露卡(Luca) (面壁智能&知乎 Modelbest&Zhihu)
-
-web:无 (Not currently open to the public)
+web:https://luca-beta.modelbest.cn/
 
 ### 22 360智脑
 
@@ -613,59 +617,65 @@ web:https://www.tigerbot.com/
 
 web:https://shanhai.unisound.com/
 
-### 25 ChatGLM(THUDM&智谱AI)
+### 25 智谱青言(Based on ChatGLM2 developed by THUDM)
 
-code:[参见清华大学KEG实验室官方github](https://github.com/THUDM)
+code:https://github.com/THUDM/ChatGLM2-6B
 
 web:https://chatglm.cn/
 
-### 26 Perplexity AI
+### 26 百川大模型(百川智能)
 
-web:https://www.perplexity.ai/
+web:https://chat.baichuan-ai.com/chat
 
-### 27 灵羽助手
+### 27 豆包(字节跳动 ByteDance)
 
-web:https://www.ai-anywhere.com/(目前只有电脑客户端)
+web:https://www.doubao.com/chat/
 
-### 28 Catalyst Plus(催化剂+)
-
-web:https://www.researchercosmos.com/(目前大部分功能只为客户端提供)
-
-### 29 MathGPT(好未来)
+### 28 MathGPT(好未来)
 
 web:www.mathgpt.com
 
-### 28 Bard
+### 29 Bard
 
 web:https://bard.google.com/
 
-### 29 AutoGPT
+### 30 Claude2(The Newest Version of Claude developed by Anthropic)
+
+intro:The Strongest Competitor of ChatGPT
+
+web:https://claude.ai/
+
+### 31 AutoGPT
 
 code:[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### 30 AgentGPT (AutoGPT Powered)
+### 32 AgentGPT (AutoGPT Powered)
 
 web:https://agentgpt.reworkd.ai/
 
 code:[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
-### 31 MiniGPT-4
+### 33 MiniGPT-4
 
 code:[Vision-CAIR](https://github.com/Vision-CAIR/MiniGPT-4)
 
-### 32 HuggingChat
+### 34 HuggingChat
 
 web:https://huggingface.co/chat
 
-### 33 Chat with Open Large Language Models
+### 35 Perplexity AI
+
+web:https://www.perplexity.ai/
+
+### 36 Chat with Open Large Language Models
 
 web:https://chat.lmsys.org/
 
-### 34 FactGPT
+### 37 FactGPT
 
 web:https://factgpt-fe.vercel.app/
 
-### 35 GPTZero
+### 38 GPTZero
 
 web:https://gptzero.me/
 
