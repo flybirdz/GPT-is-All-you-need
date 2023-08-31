@@ -397,6 +397,16 @@ paper:[Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.1
 
 code:[google-research/bigbird](https://github.com/google-research/bigbird)
 
+#### 3.20 ELECTRA
+
+paper:[ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://arxiv.org/pdf/2003.10555.pdf)
+
+code:[google-research/electra](https://github.com/google-research/electra)
+
+#### 3.21 Gshard
+
+paper:[GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)
+
 ### 4. Attention
 
 #### 4.1 Self-Attention 
