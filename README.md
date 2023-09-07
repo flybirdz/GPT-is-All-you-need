@@ -219,9 +219,9 @@ code:[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
 code:[OpenBMB/CPM-Bee](https://github.com/OpenBMB/CPM-Bee)
 
-#### 1.36 Baichuan-7B
+#### 1.36 Baichuan2
 
-code:[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)
+code:[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan2)
 
 ### 2.Embeedings
 
