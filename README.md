@@ -191,35 +191,41 @@ paper:[PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogen
 
 code:未开源(Not open source)
 
-#### 1.31 Yuan 1.0
+#### 1.31 PanGu-π
+
+paper:[PanGu-π: Enhancing Language Model Architectures via Nonlinearity Compensation](https://arxiv.org/abs/2312.17276)
+
+code:未开源(Not open source)
+
+#### 1.32 Yuan 1.0
 
 paper:[Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning](https://arxiv.org/abs/2110.04725)
 
 code:未开源(Not open source)
 
-#### 1.32 Mengzi
+#### 1.33 Mengzi
 
 paper:[Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese](https://arxiv.org/abs/2110.06696)
 
 code:[Langboat/Mengzi](https://github.com/Langboat/Mengzi)
 
-#### 1.33 PaLM2
+#### 1.34 PaLM2
 
 paper:[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 
 code:未开源(Not open source)
 
-#### 1.34 LLaMA-Adapter
+#### 1.35 LLaMA-Adapter
 
 paper:[LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199)
 
 code:[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
-#### 1.35 CPM-Bee
+#### 1.36 CPM-Bee
 
 code:[OpenBMB/CPM-Bee](https://github.com/OpenBMB/CPM-Bee)
 
-#### 1.36 Baichuan2
+#### 1.37 Baichuan2
 
 code:[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan2)
 
