@@ -203,29 +203,47 @@ paper:[Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Sho
 
 code:未开源(Not open source)
 
-#### 1.33 Mengzi
+#### 1.33 XuanYuan 2.0
+
+paper:[XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters](https://arxiv.org/pdf/2305.12002.pdf)
+
+code:未开源(Not open source)
+
+#### 1.34 BloombergGPT
+
+paper:[BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+
+code:未开源(Not open source)
+
+#### 1.35 BiomedGPT
+
+paper:[BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks](https://arxiv.org/abs/2305.17100)
+
+code:未开源(Not open source)
+
+#### 1.36 Mengzi
 
 paper:[Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese](https://arxiv.org/abs/2110.06696)
 
 code:[Langboat/Mengzi](https://github.com/Langboat/Mengzi)
 
-#### 1.34 PaLM2
+#### 1.37 PaLM2
 
 paper:[PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 
 code:未开源(Not open source)
 
-#### 1.35 LLaMA-Adapter
+#### 1.38 LLaMA-Adapter
 
 paper:[LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199)
 
 code:[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 
-#### 1.36 CPM-Bee
+#### 1.39 CPM-Bee
 
 code:[OpenBMB/CPM-Bee](https://github.com/OpenBMB/CPM-Bee)
 
-#### 1.37 Baichuan2
+#### 1.40 Baichuan2
 
 code:[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan2)
 
